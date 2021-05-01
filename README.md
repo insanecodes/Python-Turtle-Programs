@@ -1,5 +1,9 @@
-# Python Turtle Programs
-Hi guys this repository contains all of the source code of turtle programs. 
+# Python Turtle Programs [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+![](https://visitor-badge.glitch.me/badge?page_id=insanecodes.Python-Turtle-Programs)
+[![Stars](https://img.shields.io/github/stars/insanecodes/Python-Turtle-Programs)](https://github.com/insanecodes/Python-Turtle-Programs)
+[![Forks](https://img.shields.io/github/forks/insanecodes/Python-Turtle-Programs)](https://github.com/insanecodes/Python-Turtle-Programs/fork)
+<br>
+Hi guys, This repository contains all of the source code of turtle programs. 
 
 ## Table of Contents
 
