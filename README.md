@@ -10,6 +10,7 @@ Hi guys, This repository contains all of the source code of turtle programs.
 1. [Introduction](#introduction)
 2. [Pikachu](#pikachu)
 3. [Rainbow Star](#rainbowstar)
+4. [Hexagon Spiral](#hexagonspiral)
 
 
 
@@ -27,8 +28,11 @@ The original Turtle software was developed by Wally Feurzig and Seymour Papert i
 
 ## Rainbowstar
 
-
 <img src="Images/rainbowstar.PNG">
+
+## HexagonSpiral
+
+<img src="Images/haxagonSpiral.PNG">
 
 <div align="center">
 
